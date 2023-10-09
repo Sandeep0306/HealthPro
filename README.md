@@ -21,6 +21,7 @@ Meditation using Music Player: Incorporating a music player that offers meditati
 ![ss2](./Screenshots/ss2.png)
 ![ss](./Screenshots/ss.png)
 ![ss3](./Screenshots/ss3.png)
+![ss4](./Screenshots/ss4.png)
 
 ## Built With :hammer_and_wrench:
 - [ ] <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <!--React-->
