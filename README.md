@@ -4,6 +4,18 @@ Early Detection: Machine learning models can analyze large datasets to identify 
 Improved Healthcare Planning: By predicting disease outbreaks or identifying at-risk populations, healthcare providers and authorities can plan resources and interventions more effectively, ensuring that healthcare services are available where and when they are needed most.
 
 Mental Health Support: It can help identify individuals at risk of mental health issues and provide early intervention and support, reducing the burden on mental healthcare services.
+# Features:
+Mental Health Blogs: Providing users with access to informative and supportive mental health blogs to raise awareness and offer guidance on mental well-being.
+
+Prediction of Diseases: Using machine learning, your platform offers the capability to predict diseases early, assisting users in taking proactive health measures.
+
+Chatbot: Offering a chatbot service that can answer questions, provide guidance, and engage in conversations related to both physical and mental health.
+
+Doctor Near You: Helping users find healthcare professionals and facilities in their vicinity, ensuring easy access to medical care.
+
+BMI Tracker: Allowing users to monitor their Body Mass Index (BMI) over time, promoting healthier lifestyles and weight management.
+
+Meditation using Music Player: Incorporating a music player that offers meditation tracks, promoting relaxation and mental health through mindfulness practices.
 
 # Screenshots
 ![ss2](./Screenshots/ss2.png)
