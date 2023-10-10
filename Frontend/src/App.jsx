@@ -14,6 +14,7 @@ import ins from "./pages/predict/predictList/Insurance"
 import skin from "./pages/predict/predictList/Skin"
 import stomach from "./pages/predict/predictList/Stomach"
 import Yoga from "./pages/yoga"
+import BmiTracker from './pages/bmiTracker';
 function App() {
   
 
@@ -33,6 +34,7 @@ function App() {
       <Route path ='/predictDiseases/stomach' Component={stomach}/>
       <Route path ='/predictDiseases/insurance' Component={ins}/>
       <Route path ='/yoga' Component={Yoga}/>
+      <Route path= '/bmiTracker' Component={BmiTracker} />
 
     </Routes>
    <Footer/>

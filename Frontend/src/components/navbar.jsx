@@ -13,7 +13,7 @@ const Navbar = () => {
     {
       key: '2',
       label: (
-        <a  href="#">
+        <a  href="/bmiTracker">
                BMI Tracker
         </a>
       ),
